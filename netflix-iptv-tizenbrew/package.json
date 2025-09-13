@@ -1,6 +1,0 @@
-{
-  "name": "netflix-iptv",
-  "version": "1.0.0",
-  "description": "Netflix Style IPTV Player for TizenBrew",
-  "main": "index.js"
-}
